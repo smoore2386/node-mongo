@@ -1,0 +1,23 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "Playground for node js and and mongo db interaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smoore2386/node-mongo.git"
+  },
+  "author": "smoore2386",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smoore2386/node-mongo/issues"
+  },
+  "homepage": "https://github.com/smoore2386/node-mongo#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongodb": "^2.2.22"
+  }
+}
